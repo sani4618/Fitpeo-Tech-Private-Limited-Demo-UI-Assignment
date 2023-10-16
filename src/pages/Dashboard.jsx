@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Chart } from "react-google-charts";
+import Navbar from '../components/Navbar';
 
 const Dashboard = () => {
     const [datas, SetData] = useState(
@@ -91,7 +92,7 @@ const Dashboard = () => {
     return (
         <div>
           
-
+<Navbar/>
 
             <div className="container">
                 <div className="row">
