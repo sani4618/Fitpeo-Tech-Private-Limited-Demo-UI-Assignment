@@ -11,9 +11,9 @@ main{
     padding: 20px;
 }
 .sidebar{
-    background: #1b044d;
+    background: #3d0373;
     color: #fff;
-    height: 100vh;
+    height: 145vh;
     width: 200px;
     transition: all 0.5s;
 }

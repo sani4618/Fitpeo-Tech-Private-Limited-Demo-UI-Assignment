@@ -284,23 +284,22 @@ const Dashboard = () => {
                                                 
                                                 <tr>
                                                     <th scope="row"><img height="50px" width="50px" src="https://www.keralatourism.org/images/KeralaTourism-share-image.jpg"  alt=""  /> 
-                                                    <b>Abstract 3D</b> <br />
-                                                     <center>  Lorem ipsum dolor sit amet, consectetur adipisicing elit.</center>         
+                                                    <b>Abstract 3D</b> <br />                                                             
                                                     
                                                     </th>
                                                     
-                                                    <td>Jacob</td>
-                                                    <td>Thornton</td>
-                                                    <td>@fat</td>
+                                                    <td>32 in stocks</td>
+                                                    <td>$45.99</td>
+                                                    <td>20</td>
                                                 </tr>
                                                 <tr>
                                                     <th scope="row"><img height="50px" width="50px" src="https://www.keralatourism.org/images/KeralaTourism-share-image.jpg" alt="" />
                                                     <b>Sarphens illustration</b>
                                                      </th>
                                                     
-                                                    <td>Jacob</td>
-                                                    <td>Thornton</td>
-                                                    <td>@fat</td>
+                                                     <td>32 in stocks</td>
+                                                    <td>$45.99</td>
+                                                    <td>20</td>
                                                 </tr>
                                               
                                             </tbody>
